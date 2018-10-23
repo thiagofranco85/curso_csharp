@@ -1,0 +1,7 @@
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\obj\Debug\aula02.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\obj\Debug\aula02.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\bin\Debug\aula02.exe.config
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\bin\Debug\aula02.exe
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\bin\Debug\aula02.pdb
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\obj\Debug\aula02.exe
+C:\Users\Notebook\Documents\curso_csharp\aula02\aula02\obj\Debug\aula02.pdb
