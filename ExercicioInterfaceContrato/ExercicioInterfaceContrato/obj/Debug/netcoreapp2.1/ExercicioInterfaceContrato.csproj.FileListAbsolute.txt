@@ -1,0 +1,11 @@
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\bin\Debug\netcoreapp2.1\ExercicioInterfaceContrato.deps.json
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\bin\Debug\netcoreapp2.1\ExercicioInterfaceContrato.runtimeconfig.json
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\bin\Debug\netcoreapp2.1\ExercicioInterfaceContrato.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\bin\Debug\netcoreapp2.1\ExercicioInterfaceContrato.dll
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\bin\Debug\netcoreapp2.1\ExercicioInterfaceContrato.pdb
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.AssemblyInfo.cs
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.dll
+C:\Users\Notebook\Documents\curso_csharp\ExercicioInterfaceContrato\ExercicioInterfaceContrato\obj\Debug\netcoreapp2.1\ExercicioInterfaceContrato.pdb

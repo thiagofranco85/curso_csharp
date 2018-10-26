@@ -13,13 +13,13 @@ namespace Course.Entities
 
 
        public double TotalPayment{
-           get { return TotalPayment + Tax; }
+           get { return BasicPayment + Tax; }
        }
 
        public override string ToString(){
-           return "Basic Payment: " + BasicPayment.ToString('F2', CultureInfo.InvariantCulture) +
-           "\nTax: " + Tax.ToString('F2', CultureInfo.InvariantCulture) +
-            "\n Total Payment: " + TotalPayment.ToString('F2', CultureInfo.InvariantCulture)
+            return "Basic Payment: " + BasicPayment.ToString("F2", CultureInfo.InvariantCulture) +
+            "\nTax: " + Tax.ToString("F2", CultureInfo.InvariantCulture) +
+             "\n Total Payment: " + TotalPayment.ToString("F2", CultureInfo.InvariantCulture);
        }
     }
 }

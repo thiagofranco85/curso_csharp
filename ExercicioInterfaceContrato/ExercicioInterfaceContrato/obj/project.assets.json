@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Notebook\\Documents\\curso_csharp\\carRentalNoInterface\\carRentalNoInterface.csproj",
-      "projectName": "carRentalNoInterface",
-      "projectPath": "C:\\Users\\Notebook\\Documents\\curso_csharp\\carRentalNoInterface\\carRentalNoInterface.csproj",
+      "projectUniqueName": "C:\\Users\\Notebook\\Documents\\curso_csharp\\ExercicioInterfaceContrato\\ExercicioInterfaceContrato\\ExercicioInterfaceContrato.csproj",
+      "projectName": "ExercicioInterfaceContrato",
+      "projectPath": "C:\\Users\\Notebook\\Documents\\curso_csharp\\ExercicioInterfaceContrato\\ExercicioInterfaceContrato\\ExercicioInterfaceContrato.csproj",
       "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Notebook\\Documents\\curso_csharp\\carRentalNoInterface\\obj\\",
+      "outputPath": "C:\\Users\\Notebook\\Documents\\curso_csharp\\ExercicioInterfaceContrato\\ExercicioInterfaceContrato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

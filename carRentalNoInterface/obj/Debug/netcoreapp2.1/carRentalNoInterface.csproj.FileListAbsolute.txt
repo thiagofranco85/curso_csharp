@@ -1,0 +1,11 @@
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.AssemblyInfo.cs
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\bin\Debug\netcoreapp2.1\carRentalNoInterface.deps.json
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\bin\Debug\netcoreapp2.1\carRentalNoInterface.runtimeconfig.json
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\bin\Debug\netcoreapp2.1\carRentalNoInterface.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\bin\Debug\netcoreapp2.1\carRentalNoInterface.dll
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\bin\Debug\netcoreapp2.1\carRentalNoInterface.pdb
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.dll
+C:\Users\Notebook\Documents\curso_csharp\carRentalNoInterface\obj\Debug\netcoreapp2.1\carRentalNoInterface.pdb
