@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Collections.Generic;
 
 namespace Course
 {
@@ -8,18 +9,44 @@ namespace Course
         static void Main(string[] args)
         {
 
-            string path = @"C:\Users\Notebook\Documents\curso_csharp\Course\Course\myfolder";
+            string path = "/home/thiago/curso_csharp/Course/Course/myfolder/file1.txt";
+
+            System.Console.WriteLine( "DirectorySeparatorChar: " + Path.DirectorySeparatorChar);
+            System.Console.WriteLine("PathSeparator:" + Path.PathSeparator);
+            Console.WriteLine("GetDirectoryName; " + Path.GetDirectoryName(path));
+
+            Console.WriteLine("GetFileName: " + Path.GetFileName(path));
+            Console.WriteLine("GetExtension: " + Path.GetExtension(path));
+            Console.WriteLine("GetFileNameWithoutExtension: " + Path.GetFileNameWithoutExtension(path));
+            Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
+            Console.WriteLine("GetTempPath: " + Path.GetTempPath());
+
+            /*
+            string path = "/home/thiago/curso_csharp/Course/Course/myfolder";
+ 
 
             try
             {
-                Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
+                var folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
+                Console.WriteLine("FOLDERS:");
+                foreach (string s in folders) {
+                    Console.WriteLine(s);
+                }
+
+                var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+                Console.WriteLine("FILES:");
+                foreach (string s in files) {
+                    Console.WriteLine(s);
+                }
+
+                Directory.CreateDirectory(path + "/newfolder");
             }
             catch (IOException e)
             {
                 Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
             }
-
+            */
 
 
             /*
