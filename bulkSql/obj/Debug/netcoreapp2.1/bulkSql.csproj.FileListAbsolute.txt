@@ -1,0 +1,11 @@
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.csprojAssemblyReference.cache
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.csproj.CoreCompileInputs.cache
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.AssemblyInfoInputs.cache
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.AssemblyInfo.cs
+/home/thiago/curso_csharp/curso_csharp/bulkSql/bin/Debug/netcoreapp2.1/bulkSql.deps.json
+/home/thiago/curso_csharp/curso_csharp/bulkSql/bin/Debug/netcoreapp2.1/bulkSql.runtimeconfig.json
+/home/thiago/curso_csharp/curso_csharp/bulkSql/bin/Debug/netcoreapp2.1/bulkSql.runtimeconfig.dev.json
+/home/thiago/curso_csharp/curso_csharp/bulkSql/bin/Debug/netcoreapp2.1/bulkSql.dll
+/home/thiago/curso_csharp/curso_csharp/bulkSql/bin/Debug/netcoreapp2.1/bulkSql.pdb
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.dll
+/home/thiago/curso_csharp/curso_csharp/bulkSql/obj/Debug/netcoreapp2.1/bulkSql.pdb
