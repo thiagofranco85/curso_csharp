@@ -1,0 +1,11 @@
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\bin\Debug\netcoreapp2.1\AulaDelegate.deps.json
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\bin\Debug\netcoreapp2.1\AulaDelegate.runtimeconfig.json
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\bin\Debug\netcoreapp2.1\AulaDelegate.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\bin\Debug\netcoreapp2.1\AulaDelegate.dll
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\bin\Debug\netcoreapp2.1\AulaDelegate.pdb
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.AssemblyInfo.cs
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.dll
+C:\Users\Notebook\Documents\curso_csharp\AulaDelegate\AulaDelegate\obj\Debug\netcoreapp2.1\AulaDelegate.pdb
