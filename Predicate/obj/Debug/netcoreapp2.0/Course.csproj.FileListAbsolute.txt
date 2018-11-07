@@ -1,0 +1,11 @@
+/home/thiago/curso_csharp/curso_csharp/Predicate/bin/Debug/netcoreapp2.0/Course.deps.json
+/home/thiago/curso_csharp/curso_csharp/Predicate/bin/Debug/netcoreapp2.0/Course.runtimeconfig.json
+/home/thiago/curso_csharp/curso_csharp/Predicate/bin/Debug/netcoreapp2.0/Course.runtimeconfig.dev.json
+/home/thiago/curso_csharp/curso_csharp/Predicate/bin/Debug/netcoreapp2.0/Course.dll
+/home/thiago/curso_csharp/curso_csharp/Predicate/bin/Debug/netcoreapp2.0/Course.pdb
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.csprojAssemblyReference.cache
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.csproj.CoreCompileInputs.cache
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.AssemblyInfoInputs.cache
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.AssemblyInfo.cs
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.dll
+/home/thiago/curso_csharp/curso_csharp/Predicate/obj/Debug/netcoreapp2.0/Course.pdb

@@ -1,0 +1,11 @@
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/bin/Debug/netcoreapp2.1/ExercicioLambda.deps.json
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/bin/Debug/netcoreapp2.1/ExercicioLambda.runtimeconfig.json
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/bin/Debug/netcoreapp2.1/ExercicioLambda.runtimeconfig.dev.json
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/bin/Debug/netcoreapp2.1/ExercicioLambda.dll
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/bin/Debug/netcoreapp2.1/ExercicioLambda.pdb
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.csprojAssemblyReference.cache
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.csproj.CoreCompileInputs.cache
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.AssemblyInfoInputs.cache
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.AssemblyInfo.cs
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.dll
+/home/thiago/curso_csharp/curso_csharp/ExercicioLambda/obj/Debug/netcoreapp2.1/ExercicioLambda.pdb
