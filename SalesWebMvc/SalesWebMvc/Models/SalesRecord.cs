@@ -1,5 +1,5 @@
-﻿using System;
-using SalesWebMvc.Models.Enums;
+﻿using SalesWebMvc.Models.Enums;
+using System;
 
 namespace SalesWebMvc.Models
 {
@@ -20,7 +20,7 @@ namespace SalesWebMvc.Models
             Id = id;
             Date = date;
             Amount = amount;
-            this.Status = status;
+            Status = status;
             Seller = seller;
         }
     }

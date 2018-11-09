@@ -13,14 +13,16 @@ namespace SalesWebMvc.Data
 
         public SeedingService(SalesWebMvcContext context)
         {
-            this._context = context;
+            _context = context;
         }
 
         public void Seed()
         {
-            if( _context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any() )
+            if (_context.Department.Any() ||
+                _context.Seller.Any() ||
+                _context.SalesRecord.Any())
             {
-                return;
+                return; // DB has been seeded
             }
 
             Department d1 = new Department(1, "Computers");
@@ -34,7 +36,6 @@ namespace SalesWebMvc.Data
             Seller s4 = new Seller(4, "Martha Red", "martha@gmail.com", new DateTime(1993, 11, 30), 3000.0, d4);
             Seller s5 = new Seller(5, "Donald Blue", "donald@gmail.com", new DateTime(2000, 1, 9), 4000.0, d3);
             Seller s6 = new Seller(6, "Alex Pink", "bob@gmail.com", new DateTime(1997, 3, 4), 3000.0, d2);
-            Seller s7 = new Seller(7, "Ághata", "aghata@gmail.com", new DateTime(1992, 2, 12), 3000.0, d2);
 
             SalesRecord r1 = new SalesRecord(1, new DateTime(2018, 09, 25), 11000.0, SaleStatus.Billed, s1);
             SalesRecord r2 = new SalesRecord(2, new DateTime(2018, 09, 4), 7000.0, SaleStatus.Billed, s5);
@@ -60,15 +61,17 @@ namespace SalesWebMvc.Data
             SalesRecord r22 = new SalesRecord(22, new DateTime(2018, 10, 24), 4000.0, SaleStatus.Billed, s4);
             SalesRecord r23 = new SalesRecord(23, new DateTime(2018, 10, 19), 11000.0, SaleStatus.Canceled, s2);
             SalesRecord r24 = new SalesRecord(24, new DateTime(2018, 10, 12), 8000.0, SaleStatus.Billed, s5);
-            SalesRecord r25 = new SalesRecord(25, new DateTime(2018, 10, 31), 7000.0, SaleStatus.Billed, s7);
+            SalesRecord r25 = new SalesRecord(25, new DateTime(2018, 10, 31), 7000.0, SaleStatus.Billed, s3);
             SalesRecord r26 = new SalesRecord(26, new DateTime(2018, 10, 6), 5000.0, SaleStatus.Billed, s4);
             SalesRecord r27 = new SalesRecord(27, new DateTime(2018, 10, 13), 9000.0, SaleStatus.Pending, s1);
             SalesRecord r28 = new SalesRecord(28, new DateTime(2018, 10, 7), 4000.0, SaleStatus.Billed, s3);
             SalesRecord r29 = new SalesRecord(29, new DateTime(2018, 10, 23), 12000.0, SaleStatus.Billed, s5);
             SalesRecord r30 = new SalesRecord(30, new DateTime(2018, 10, 12), 5000.0, SaleStatus.Billed, s2);
 
-            _context.Department.AddRange(d1,d2,d3,d4);
-            _context.Seller.AddRange(s1,s2,s3,s4,s5,s6,s7);
+            _context.Department.AddRange(d1, d2, d3, d4);
+
+            _context.Seller.AddRange(s1, s2, s3, s4, s5, s6);
+
             _context.SalesRecord.AddRange(
                 r1, r2, r3, r4, r5, r6, r7, r8, r9, r10,
                 r11, r12, r13, r14, r15, r16, r17, r18, r19, r20,

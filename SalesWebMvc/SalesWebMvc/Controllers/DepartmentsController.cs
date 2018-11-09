@@ -20,7 +20,7 @@ namespace SalesWebMvc.Controllers
 
         // GET: Departments
         public async Task<IActionResult> Index()
-        { 
+        {
             return View(await _context.Department.ToListAsync());
         }
 

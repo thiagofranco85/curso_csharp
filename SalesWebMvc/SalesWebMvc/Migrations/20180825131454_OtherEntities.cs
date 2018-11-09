@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace SalesWebMvc.Migrations
 {
-    public partial class OtherMigrations : Migration
+    public partial class OtherEntities : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -39,7 +39,7 @@ namespace SalesWebMvc.Migrations
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     Date = table.Column<DateTime>(nullable: false),
                     Amount = table.Column<double>(nullable: false),
-                    status = table.Column<int>(nullable: false),
+                    Status = table.Column<int>(nullable: false),
                     SellerId = table.Column<int>(nullable: true)
                 },
                 constraints: table =>

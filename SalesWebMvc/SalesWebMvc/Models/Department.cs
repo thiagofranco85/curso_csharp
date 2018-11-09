@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace SalesWebMvc.Models
 {
@@ -25,14 +25,9 @@ namespace SalesWebMvc.Models
             Sellers.Add(seller);
         }
 
-        public void RemoveSeller(Seller seller)
-        {
-            Sellers.Remove(seller);
-        }
-
         public double TotalSales(DateTime initial, DateTime final)
         {
-            return Sellers.Sum( x => x.TotalSales(initial, final));
+            return Sellers.Sum(seller => seller.TotalSales(initial, final));
         }
     }
 }
