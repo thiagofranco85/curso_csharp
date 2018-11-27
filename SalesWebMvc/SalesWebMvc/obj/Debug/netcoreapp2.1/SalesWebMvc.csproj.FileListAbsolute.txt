@@ -40,3 +40,6 @@ C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\ob
 C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
+C:\Users\Notebook\Documents\curso_csharp\curso_csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
